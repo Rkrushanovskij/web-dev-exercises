@@ -34,12 +34,14 @@ HTML/CSS/JavaScript/ReactJS practice exercises
 ```html
 <!doctype html>
   <head>
+ <!-- Попередній код -->
  <!-- 
 		Додайте тут елеиент style 
 		В сепедині style визначте селектор p з властивістю color: red;
 	-->
   </head>
   <body>
+    <!-- Попередній код -->
     <!-- 
 		Додайте тут елеиент p з текстом This is my paragraph.
 		визначте атрибут style для тега p зі значенням color: blue;
@@ -53,7 +55,7 @@ HTML/CSS/JavaScript/ReactJS practice exercises
 </html>
 ```
 
-3. У наступному фпагменті випрвити помилки
+3. У наступному фрагменті виправити помилки
 
 ```html
     <p>Звичайний, нудний абзац. Намагайтеся не заснути.</p>
@@ -118,7 +120,7 @@ HTML/CSS/JavaScript/ReactJS practice exercises
 </html>
 ```
 
-5. Створити файл css/main.css
+5. Створити та використати файли css
 
 - Перейти до кореня персонального сайта
 - Створити файли css/main.css та css/common.css
@@ -127,7 +129,7 @@ HTML/CSS/JavaScript/ReactJS practice exercises
   1. Підключити css/main.css за допомогою тега link
   2. Підключити css/common.css за допомогою правила @import
 
-6. Виправити помилку у фпагменті
+6. Виправити помилку у фрагменті
 
 ```css
  * {
@@ -151,7 +153,7 @@ HTML/CSS/JavaScript/ReactJS practice exercises
 
 8. Відредагувати файл css/main.css
 
-    - Встановити, за допомогою визначених у файлі css/common.css змінних, властивості елемента body:
+    - Встановити у файлі css/common.css, за допомогою визначених змінних, властивості елемента body:
         1. color;
         2. background;
 
@@ -163,7 +165,7 @@ HTML/CSS/JavaScript/ReactJS practice exercises
    <!-- створити тут div -->
       <h2>About</h2>
    <!-- 
-	  створити тут невпорядкований список з такмсм елементами 
+	  створити тут невпорядкований список з такими елементами 
 	  	<a href="#">Services</a>
         <a href="#">Portfolio</a>
         <a href="#">Pricing</a>
@@ -174,7 +176,7 @@ HTML/CSS/JavaScript/ReactJS practice exercises
  <!-- створити тут div -->
       <h2>Resources</h2>
    <!-- 
-	  створити тут невпорядкований список з такмсм елементами 
+	  створити тут невпорядкований список з такими елементами 
 	  	<a href="#">Docs</a>
         <a href="#">Blog</a>
         <a href="#">eBooks</a>
@@ -184,7 +186,7 @@ HTML/CSS/JavaScript/ReactJS practice exercises
  <!-- створити тут div -->
       <h2>Contact</h2>
    <!-- 
-	  створити тут невпорядкований список з такмсм елементами 
+	  створити тут невпорядкований список з такими елементами 
 	  	<a href="#">Help</a>
         <a href="#">Sales</a>
         <a href="#">Advertise</a>
@@ -194,7 +196,7 @@ HTML/CSS/JavaScript/ReactJS practice exercises
   <!-- Footer legal -->
   <!-- створити тут section -->
   <!-- 
-	  створити тут невпорядкований список з такмсм елементами 
+	  створити тут невпорядкований список з такими елементами 
 	  	<a href="#">Terms &amp; Conditions</a>
         <a href="#">Privacy Policy</a>
         &copy; 2024 Copyright Shopaholic Inc.
